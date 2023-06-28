@@ -1,0 +1,82 @@
+h1{
+    font-family: 'Poppins', sans-serif;
+    padding: 10%;
+    margin-right: 4.375rem;
+    margin-bottom: -10px;
+    text-align: left;
+    font-size: 1.625rem;
+}
+body{
+    background-color: #D2E9E9;
+}
+.main{
+    margin-top: 5%;
+    height: 37rem;
+    width: 30%;
+    background-color: white;
+    border-radius: 0.625rem;
+}
+.card{
+    font-family: 'Poppins', sans-serif;
+    margin-right: 13.25rem;
+    line-height: 3rem;
+}
+#pass{
+    margin-right: 1.75rem;
+}
+.hi{
+    margin-left: 3rem;
+    height: 2.125rem;
+    width: 20rem;
+    border-radius: 0.5rem;
+    background-color: lightgrey;
+}
+.me{
+    font-family: 'Poppins', sans-serif;
+    margin-right: 216px;
+    font-size: 1.1rem;
+}
+.checkbox{
+    width: 0.9375rem;
+    height: 0.9375rem;
+}
+.btn{
+    background-color: #7c48bf;
+    color: white;
+    height: 2.5rem;
+    width: 20.625rem;
+    border-radius: 0.5rem;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    margin-right: 1.6875rem;
+}
+@media( max-width: 800px){
+    .main{
+        height: 41rem;
+        width: 25rem;
+    }
+    .card label{
+        margin-left: 20rem;
+    }
+}
+@media( max-width: 1000px){
+    .main{
+        height: 41rem;
+        width: 25rem;
+    }
+}
+@media( max-width: 1250px){
+    .main{
+        height: 41rem;
+        width: 25rem;
+    }
+}
+.card label{
+    display: block;
+    margin-left: -1rem;
+}
+
+
+
+
+
